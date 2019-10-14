@@ -36,7 +36,7 @@ public class MainUi {
 
 	private String message1 = "------------------------";
 	private String message2 = "Please enter a valid option.";
-	private String message3 = "Choices:";
+	private String message3 = "Choices:";//printing stuff
 	private String message4 = "BACK ON HOME PAGE!!";
 
 	private void start() {
